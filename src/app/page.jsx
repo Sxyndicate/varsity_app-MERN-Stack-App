@@ -1,5 +1,5 @@
 import CardList from "@/components/cardList/CardList";
-import styles from "./blogPage.module.css";
+import styles from "./blog/blogPage.module.css"; 
 import Menu from "@/components/Menu/Menu";
 
 const BlogPage = ({ searchParams }) => {
